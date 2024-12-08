@@ -1,0 +1,9 @@
+{
+    "users": [
+        {"userId":1,"schoolId": "20200712389", "name": "Ece","password": "1234", "department": "Computer Engineering"},
+        {"userId":2,"schoolId": "20213750274", "name": "Ali", "password": "12345","department": "Computer Engineering"},
+        {"userId":3,"schoolId": "20190702083","name": "Elif", "password": "123456","department": "Computer Engineering"},
+        {"userId":4,"schoolId": "20204901831", "name": "Gamze","password": "5678","department": "Computer Engineering"},
+        {"userId":5,"schoolId": "20204639836", "name": "Ramazan","password": "56789","department": "Computer Engineering"}
+    ]
+}
